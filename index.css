@@ -1,0 +1,787 @@
+.heading{
+    width:20%;
+    position:absolute;
+    left:40px;
+    bottom:800px;
+}
+/* body{
+background-image:url("https://static.dw.com/image/64115481_605.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+} */
+.links{
+    position:absolute;
+    bottom:700px;
+    
+   background-color:green;
+    height:1.5cm;
+    width:100%;
+    color:white;
+    font-weight: lighter;
+}
+.data2{
+    position:absolute;
+     left:299px;
+     bottom:10px;
+     font-size:15px;
+}
+.data3{
+    position:absolute;
+     left:420px;
+     bottom:10px;
+     font-size:15px;
+}
+
+.data4{
+    position:absolute;
+     left:520px;
+     bottom:10px;
+     font-size:15px;
+}
+
+.data1{
+    position:absolute;
+     left:190px;
+     bottom:10px;
+     font-size:15px;
+}
+.data5{
+
+    position:absolute;
+     left:720px;
+     bottom:10px;
+     font-size:15px
+}
+.data6{
+
+    position:absolute;
+     left:920px;
+     bottom:10px;
+     font-size:15px
+}
+.data7{
+
+    position:absolute;
+     left: 1050px;
+     bottom:10px;
+     font-size:15px
+}
+
+.data8{
+
+    position:absolute;
+     left:1200px;
+     bottom:10px;
+     font-size:15px
+}
+.data9{
+
+    position:absolute;
+     left:1450px;
+     bottom:10px;
+     font-size:15px
+}
+.int{
+    position:absolute;
+    bottom:820px;
+    left:520px;
+    width:15%;
+    height:1cm;
+}
+.int2{
+    position:absolute;
+    bottom:820px;
+    left:804px;
+    width:7%;
+    height:1.2cm;
+    background-color:orangered;
+    border-color: white;
+    border-bottom-color: white;
+    border-block-color: white;
+}
+.offer{
+    position:absolute;
+    bottom:400px;
+    background-color:rgb(238, 238, 238);
+    height:4cm;
+    width:10%;
+    left:120px;
+    border-radius: 400px;
+
+}
+.offer-i{
+    height:3cm;
+    position:absolute;
+    bottom:30px;
+    left: 7px;
+    
+/*     border-radius:120px; */
+    
+}
+
+.desk{
+    position:absolute;
+    bottom:120px;   
+}
+/* start one */
+.manage{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-500px;
+    left:220px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox{
+    width:10%;
+}
+.sale1{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.text{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist1{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state{
+    width:260px;
+}
+.pro_name{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym{
+    width:20%;
+}
+.area{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/* finish one */
+/* 
+second start */
+.manage2{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-500px;
+    left:520px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix2{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox2{
+    width:10%;
+}
+.sale2{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.text2{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist2{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state2{
+    width:260px;
+}
+.pro_name2{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym2{
+    width:20%;
+}
+.area2{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money2{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest2{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/* second finish */
+/*third start*/
+.manage3{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-500px;
+    left:820px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix3{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox3{
+    width:10%;
+}
+.sale3{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.text3{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist3{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state3{
+    width:260px;
+}
+.pro_name3{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym3{
+    width:20%;
+}
+.area3{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money3{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest3{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*third finish*/
+/* fourth start */
+.manage4{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-500px;
+    left:1120px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix4{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox4{
+    width:10%;
+}
+.sale4{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.text4{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist4{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state4{
+    width:260px;
+}
+.pro_name4{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym4{
+    width:20%;
+}
+.area4{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money4{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest4{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*fourth finish*/
+
+/*fifth start*/
+
+.manage5{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-500px;
+    left:1420px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix5{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox5{
+    width:10%;
+}
+.sale5{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.text5{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist5{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state5{
+    width:260px;
+}
+.pro_name5{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym5{
+    width:20%;
+}
+.area5{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money5{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest5{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*fifth finish*/
+/*start sixth*/
+.manage6{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:220px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix6{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox6{
+    width:10%;
+}
+.sale6{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex6{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist6{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state6{
+    width:260px;
+}
+.pro_name6{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym6{
+    width:20%;
+}
+.area6{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money6{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest6{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*sixth finish*/
+/* seventh start */
+
+.manage7{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:520px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix7{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox7{
+    width:10%;
+}
+.sale7{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex7{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist7{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state7{
+    width:260px;
+}
+.pro_name7{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym7{
+    width:20%;
+}
+.area7{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money7{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest7{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*7 finish*/
+
+.manage8{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:820px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix8{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox8{
+    width:10%;
+}
+.sale8{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex8{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist8{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state8{
+    width:260px;
+}
+.pro_name8{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym8{
+    width:20%;
+}
+.area8{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money8{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest8{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/* 8 finish */
+/*9 start*/
+
+.manage9{
+    width:15%;
+    background-color:rgb(245, 239, 239);
+    position:absolute;
+    bottom:-1010px;
+    left:820px;
+    height: 13cm;
+    border-radius:12px;
+}
+.mix9{
+    position:absolute;
+    left:40px;
+    height: 5cm;
+    bottom:280px;
+    
+
+
+}
+.tox9{
+    width:10%;
+}
+.sale9{
+    position:absolute;
+    bottom:230px;
+    left:30px;
+    width:20%;
+    background-color:darkred;   
+    color:white;
+    height:1cm;
+
+}
+.tex9{
+    position:absolute;
+    left:11px;
+    top:-10px;
+}
+.heist9{
+    position:absolute;
+    bottom:120px;
+    left:12px;
+    
+}
+.state9{
+    width:260px;
+}
+.pro_name9{
+    position:absolute;
+    bottom: 90px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-size:15px;
+}
+.sym9{
+    width:20%;
+}
+.area9{
+    position:absolute;
+    bottom:70px;
+    left:12px;
+}
+.money9{
+    font-weight:lighter;
+    font-size:20px;
+}
+.rest9{
+    position:absolute;
+    bottom:20px;
+    left:12px;
+    color:rgb(122, 128, 128);
+    font-weight: lighter;
+}
+/*9 finish*/
